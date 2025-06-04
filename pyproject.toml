@@ -1,7 +1,7 @@
 [project]
 name = "streamlit-template"
 version = "0.1.0"
-description = "Add your description here"
+description = "Visual Novel Script Creator - A Streamlit app for creating visual novel game scripts with characters, branching dialogue, and story arcs"
 readme = "README.md"
 authors = [
     { name = "Rick Anderson", email = "rianders@docs.rutgers.edu" }
